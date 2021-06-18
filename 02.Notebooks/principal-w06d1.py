@@ -16,4 +16,6 @@ data = {
 print("prueba")
 # Buffer de escritura de datos
 with open("midatalst.json","w") as write_file: 
-    json.dump(data, write_file,indent=4)      
+    json.dump(data, write_file,indent=4)
+
+print("Esta es una prueba desde github")
