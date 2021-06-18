@@ -1,0 +1,16 @@
+{
+    "carros": [
+        {
+            "marca": "Renault",
+            "modelo": 2010
+        },
+        {
+            "marca": "Mazda",
+            "modelo": 2011
+        },
+        {
+            "marca": "BMW",
+            "modelo": 2019
+        }
+    ]
+}
